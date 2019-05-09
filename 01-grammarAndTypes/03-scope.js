@@ -1,7 +1,6 @@
 //Scope
 //JavaScript has function scope
 //Determines accesibility of these variables
-
 //Variables defined inside of a function are NOT accesible from the outside
 //Local and Global scope
 

@@ -6,12 +6,10 @@ var b = 2;
 console.log(a + b);
 
 /* Notes:
-
-1. A varianble must begin with a letter, underscore, or dollar sign
+1. A variable must begin with a letter, underscore, or dollar sign
 2. Numbers can follow the above characters, but cannot come first
 3. Javascript is case sensitive -- "Hello" and "hello" are different names
 4. Variables must be identified with unique names\
-
 */
 
 var x;

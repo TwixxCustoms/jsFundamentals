@@ -8,7 +8,7 @@ function hi(parameter1, parameter2){
 function pet(animal){
     console.log(`I have an ${animal} for a pet.`);
 }
-                                    //Replaces animal with animal type
+                      //Replaces animal with animal type
 pet('cat');
 pet('dog');
 pet('turtle');
